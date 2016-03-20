@@ -11,7 +11,7 @@
 	      ],
 
         "time":[
-          {"id": "time-server-1", "host":"127.0.0.1", "port" : 7000},
+          {"id": "time-server-1", "host":"127.0.0.1", "port" : 7000, "args":" --debug=32312 "},
           {"id": "time-server-2", "host":"127.0.0.1", "port" : 7001}
         ]
 
